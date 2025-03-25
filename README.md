@@ -77,14 +77,6 @@
 
 ---
 
-### 💡 Fun Facts
-
-- 🏋️‍♂️ I'm a fitness enthusiast – balancing coding with physical health.
-- 🎮 I love exploring new technologies and gaming in my free time.
-- 🌍 Passionate about learning new languages and cultures.
-
----
-
 ### ⚡ Fun Projects
 
 - **[RapidPurpleSec](https://github.com/FedorIumashev/RapidPurpleSec)**: A multifunctional tool for continuous security testing.
