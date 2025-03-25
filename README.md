@@ -5,7 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedoriumashev" alt="fedoriumashev" /></a> </p>
 
+- 🔭 I’m currently working on **security files**
+
+- 🌱 I’m currently learning **k8s**
+
+- 🤝 I’m looking for help with **ci/cd project**
+
+- 💬 Ask me about **python or docker**
+
 - 📫 How to reach me **iumashev.fedor@yandex.ru**
+
+- 📄 Know about my experiences [https://hh.ru/resume/913ebdf8ff0e76e99c0039ed1f67764c304f63](https://hh.ru/resume/913ebdf8ff0e76e99c0039ed1f67764c304f63)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
