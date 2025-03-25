@@ -80,7 +80,6 @@
 ### ⚡ Fun Projects
 
 - **[RapidPurpleSec](https://github.com/FedorIumashev/RapidPurpleSec)**: A multifunctional tool for continuous security testing.
-- **[CI/CD Automation](https://github.com/FedorIumashev/CI-CD-Automation)**: My exploration into fully automated CI/CD pipelines, focusing on security.
 
 ---
 
@@ -89,7 +88,7 @@
 If you’re interested in collaborating or just want to chat about **DevSecOps**, **CI/CD**, or **Security**, feel free to reach out! 😊
 
 📧 Email: **iumashev.fedor@yandex.ru**  
-🔗 [LinkedIn](https://www.linkedin.com/in/fedoriumashev/)
+🔗 [LinkedIn]([https://www.linkedin.com/in/fedoriumashev/](https://www.linkedin.com/in/fedor-iumashev-117748348/))
 
 ---
 
