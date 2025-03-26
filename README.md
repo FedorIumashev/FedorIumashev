@@ -79,7 +79,7 @@
 
 ### ⚡ Fun Projects
 
-- **[RapidPurpleSec]([https://github.com/FedorIumashev/RapidPurpleSec](https://github.com/FedorIumashev/RPS))**: A multifunctional tool for continuous security testing.
+- **[RapidPurpleSec]((https://github.com/FedorIumashev/RPS))**: A multifunctional tool for continuous security testing.
 
 ---
 
